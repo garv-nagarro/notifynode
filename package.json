@@ -1,0 +1,20 @@
+{
+  "name": "broke-the-build",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {
+    "aws-sdk": "2.0.23",
+    "grunt": "0.4.*",
+    "grunt-aws-lambda": "0.8.0",
+    "npm": "^2.8.3"
+  },
+  "dependencies": {
+    "twilio": "2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "author": "Amazon Web Services Inc.",
+   "license": "Apache 2.0",
+  "description": ""
+}
